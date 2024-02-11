@@ -1,0 +1,102 @@
+body {
+  background-color: #c9c9c9;
+}
+
+h1 {
+  color: #5e3166;
+  text-align: center;
+}
+h3 {
+  color: #5e3166;
+  text-align: center;
+}
+h5 {
+  color: #5e3166;
+}
+#hr {
+  border: none;
+  height: 3px;
+  color: #5e3166;
+  background-color: #5e3166;
+}
+
+.navitem {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#description {
+  text-align: center;
+  margin-top: 0.5em;
+}
+#NDSU_Logo {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  max-width: 95%;
+  max-height: 95%;
+}
+#college1 {
+  display: grid;
+  place-content: center;
+  padding-right: 3em;
+}
+#usual_text {
+  text-align: center;
+  font-size: 1.5em;
+  color: #5e3166;
+}
+#content_container {
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+#college2 {
+  padding-left: 3em;
+}
+#largest_heading {
+  margin-top: 2em;
+}
+#section_heading {
+  margin-top: 2em;
+}
+#more_info {
+  margin-top: 5em;
+}
+#row_college {
+  margin-top: 3em;
+  margin-bottom: 2em;
+}
+
+#table_container {
+  margin-top: 3em;
+}
+
+#list_center {
+  justify-content: center;
+}
+
+.table-bordered > tbody > tr > td,
+.table-bordered > tbody > tr > th,
+.table-bordered > tfoot > tr > td,
+.table-bordered > tfoot > tr > th,
+.table-bordered > thead > tr > td,
+.table-bordered > thead > tr > th {
+  border: 1px solid #5e3166;
+}
+
+#table_text {
+  color: #5e3166;
+}
+
+#list_text {
+  font-size: 1.5em;
+  color: #5e3166;
+}
+
+#footer {
+  margin-top: 10em;
+  margin-bottom: 10em;
+}
